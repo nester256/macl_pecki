@@ -808,8 +808,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #more-features .box {
-  padding: 40px;
+  padding: 60px;
   margin-bottom: 30px;
+  height: 180px;
   box-shadow: 0px 0px 30px rgba(73, 78, 92, 0.15);
   background: #fff;
   transition: 0.4s;
@@ -835,9 +836,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #more-features h4 {
+  margin-top: auto;
   margin-left: 100px;
   font-weight: 700;
-  margin-bottom: 15px;
   font-size: 18px;
 }
 
@@ -858,8 +859,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   }
   #more-features .icon {
     float: none;
-    text-align: center;
-    padding-bottom: 15px;
+    margin-top: auto;
   }
   #more-features h4, #more-features p {
     margin-left: 0;
@@ -1317,6 +1317,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-radius: 10px;
   border-spacing: 0;
   color: #000;
+  margin: auto;
 }
 .specifications th {
   color: white;
